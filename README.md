@@ -14,8 +14,3 @@ Contribution Guidelines: Standards for code submissions, review processes, and c
 
 This structure supports both technical and non-technical stakeholders and sets a foundation for building, evolving, and scaling digital products in the ecommerce and supply chain domains.​
 
-Related
-
-Write a concise PRD README template for an eCommerce project
-
-Creat
